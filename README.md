@@ -1,4 +1,4 @@
-# Mips-assembly-
+# Mips-assembly
 repositórios para treinamento no assembly mips, na disciplina de Arquitetura e Organização de Computadores UFU
 
 * Esse repositório foi criado para a pratica de exercícios na linguagem
