@@ -10,7 +10,7 @@
 	move $t1, $zero #adiciona zero para $t1 (i = 0)
 	
 	while:
-		beq $t1, $t0, out #se $t1 for maior que $t0, vai para out (i < n) 
+		beq $t1, $t0, out #se $t1 for igual a $t0, vai para out (i < n) 
 #		{
 			#imprime $t1
 			li $v0, 1
@@ -25,6 +25,5 @@
 			
 			addi $t1, $t1, 1 #soma 1 a $t1 (i++)				
 #		}
-
 		j while # volta para while
 	out:
