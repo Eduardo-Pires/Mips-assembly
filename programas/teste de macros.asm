@@ -26,5 +26,7 @@
 	printString(string)
 	
 	sbrk(var)
+	push
+	pop
 	
 	return0
